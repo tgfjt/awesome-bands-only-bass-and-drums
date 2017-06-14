@@ -8,3 +8,4 @@ Duo :fire:
 - [Death from Above 1979](http://www.deathfromabove1979.com/)
 - [Lightning Bolt](http://laserbeast.com/)
 - [Royal Blood](http://royalbloodband.com/)
+- [Ruins](http://magaibutsu.com/mgb/ruins-2/)
